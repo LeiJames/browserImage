@@ -1,0 +1,6 @@
+framework module Pods_reuserProduct {
+  umbrella header "Pods-reuserProduct-umbrella.h"
+
+  export *
+  module * { export * }
+}
